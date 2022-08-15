@@ -144,18 +144,18 @@ yat:
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
-# header_pages:
-#   - index.html
-#   - archives.html
-#   - categories.html
-#   - tags.html
-#   - about.md
+header_pages:
+  - index.html
+  # - archives.html
+  - categories.html
+  - tags.html
+  - about.md
 
 # Page default value
-# defaults:
-#   home:
-#     heading: "Your awesome heading"
-#     subheading: "Your awesome subheading"
+defaults:
+  home:
+    heading: "대충쓰는 일기장"
+    subheading: "근본없는 개발로그. 재미있어 보이는 것을 공부해요."
 #     banner: "Your image url"
 
 # Banner default settings
