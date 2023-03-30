@@ -9,6 +9,8 @@ tags: [github, graphite, pull request]
 ## Stacked Changes 란?
 개념은 나중에 작성!
 
+작년에 에이든님이 공유해주신 인프콘 발표 자료가 설명이 잘 되어 있는 듯 하다. -> https://www.slideshare.net/JiyeonSeo2/pull-requests-vs-stacked-changes
+
 기존에 1스토리-> 1PR이었다면, 1스토리-> 다수의 stack PR이 가능해짐.
 
 ## Github에서 Graphite 사용하기
