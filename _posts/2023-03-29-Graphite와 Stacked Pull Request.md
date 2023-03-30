@@ -49,7 +49,6 @@ tags: [github, graphite, pull request]
 **graphite 대시보드에서 stack들을 한번에 머지할 수 있음**
 
 <img width="1424" alt="스크린샷 2023-03-29 오후 12 29 04" src="https://user-images.githubusercontent.com/47856202/228716705-2de0e98c-fdb3-4a65-ac4c-cae7442220b6.png">
-e5-a453-44d7-8104-6e38ac70e100.png">
 
 ## 프로젝트에서 사용 가능할까? 장점, 단점, 고려할 점을 뭉뜽그려
 
