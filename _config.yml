@@ -43,7 +43,7 @@ author: yaong
 copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
-  근본없는 개발로그. 재미있어 보이는 것을 공부해요.
+  오늘 하루도 살아가고 있는 개발자 1의 주절거림.
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
@@ -155,7 +155,7 @@ header_pages:
 defaults:
   home:
     heading: "대충쓰는 일기장"
-    subheading: "근본없는 개발로그. 재미있어 보이는 것을 공부해요."
+    subheading: "오늘 하루도 살아가고 있는 개발자 1의 주절거림."
 #     banner: "Your image url"
 
 # Banner default settings
